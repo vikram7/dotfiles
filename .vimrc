@@ -1,7 +1,3 @@
-" --------------------------------------------------------
-" See https://github.com/NewMexicoKid/vimrc for the source
-" --------------------------------------------------------
-"
 set nocompatible                " be iMproved, required
 filetype off                    " required
 set backspace=indent,eol,start 	" Allow backspace in insert mode
